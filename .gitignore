@@ -1,0 +1,14 @@
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.env
+**/.env
+.DS_Store
+**/.DS_Store
+/src/generated/prisma
+backend/src/generated/prisma
+coverage/
+**/coverage/
+.expo/
+**/.expo/
